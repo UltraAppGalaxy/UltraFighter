@@ -1,2 +1,2 @@
-# Michael Hardy's UltraFighterGame!
+# Michael Hardy's Ultra Fighter Game!
 A Great Fighting Game For Microsoft Windows!
